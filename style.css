@@ -33,7 +33,7 @@ body {
 
 .analog-clock:before {
   z-index: 000;
-  content: "Clock";
+  content: "";
   position: absolute;
   color: #cee0f6;
   font-size: 6.5em;
@@ -42,7 +42,7 @@ body {
 }
 
 .analog-clock:after {
-  content: "Analog";
+  content: "";
   position: absolute;
   color: #cee0f6;
   font-size: 1.3em;
