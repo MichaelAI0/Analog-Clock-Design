@@ -34,6 +34,7 @@ body {
 .analog-clock:before {
   z-index: 000;
   content: "";
+  /* Shows the Clock face wording */
   position: absolute;
   color: #cee0f6;
   font-size: 6.5em;
